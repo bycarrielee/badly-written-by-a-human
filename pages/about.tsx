@@ -23,11 +23,14 @@ const About: NextPage = () => {
             </header>
 
             <div className="post-body">
-              <p>This is my tiny act of rebellion,<br />at a time where most words are written by AI.</p>
+              <p>This is my tiny act of rebellion*,<br />at a time where most words are written by AI.</p>
 
               <p>This is a space for words written<br />and rewritten by a human being.</p>
 
               <p>No next-token probability.<br />No groundbreaking efficiency.<br />No likes. No comments. No shares.</p>
+
+              <p style={{ color: 'var(--muted)' }}>---</p>
+              <p>*But with one big irony. This site is built by Claude.</p>
             </div>
           </article>
         </main>

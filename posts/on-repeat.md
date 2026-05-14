@@ -3,7 +3,7 @@ title: On repeat
 date: 2026-05-13
 ---
 In my 7-month-old, who's now learning to stand. 
-Grab someone, pull myself up. 
+Grab someone, pull herself up. 
 Wobble wobble.
 Again. And again. And again. 
 
